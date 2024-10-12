@@ -1,0 +1,11 @@
+# notes
+NOTES.md
+
+# env
+.env  
+
+# logs
+*.log
+
+# dependencies
+/node_modules

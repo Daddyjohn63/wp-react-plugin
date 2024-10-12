@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=window.wp.element,t=({text:t})=>(0,e.createElement)("h1",null,t);document.addEventListener("DOMContentLoaded",(function(){document.querySelectorAll('[id^="react-demo-container"]').forEach((n=>{const o=n.getAttribute("data-text");(0,e.createRoot)(n).render((0,e.createElement)(t,{text:o}))}))}))})();

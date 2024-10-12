@@ -1,0 +1,13 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "A React demo plugin for WordPress",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^26.0.0"
+  }
+}
