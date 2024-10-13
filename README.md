@@ -2,4 +2,4 @@
 
 **UPDATE**
 
-**This is technically not brilliant as I am relying on loading React and we shoudn;t really do that as WordPress loads React for us. I will post an update tomorrow.**
+**This is technically not brilliant as I am relying on loading React and we shoudn't really do that as WordPress loads React for us. I will post an update tomorrow.**
